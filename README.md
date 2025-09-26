@@ -1,5 +1,3 @@
-Here is a fixed and improved version of the project's README.
-
 # Doc RAG Service
 
 This project implements a comprehensive **Retrieval-Augmented Generation (RAG) service** with a modular backend built on **FastAPI** and a user-friendly frontend using **Streamlit**. It's designed for high performance, accuracy, and scalability when handling a variety of document types.
